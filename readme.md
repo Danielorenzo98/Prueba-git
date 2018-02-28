@@ -79,7 +79,7 @@ Sí causa un conflicto.
 
 **12. ¿Qué comando o comandos utilizaste en el paso 29?**
 
-`git branch -d tittle`
+`git branch -d title`
 
 --
 
